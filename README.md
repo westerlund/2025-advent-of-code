@@ -1,6 +1,7 @@
 ## 2025 Advent of Code
 
 - [x] Day 1
+- [x] Day 2
 
 ### Run using Bun
 ```
