@@ -1,5 +1,7 @@
 ## 2025 Advent of Code
 
+- [x] Day 1
+
 ### Run using Bun
 ```
 bun run <file>
