@@ -20,9 +20,7 @@ const chunk = (list: string[], chunks: number) => {
 
 const isRepeated = (value: string) => {
   const half = Math.floor(value.length / 2)
-  
   const array = value.split("")
-  
   for (let i = half; i > 0; i--) {
     const chunks = chunk(array, i)
     if (chunks.slice(1).every(c => c == chunks[0])) {
