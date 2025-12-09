@@ -6,6 +6,7 @@
 - [x] Day 4
 - [x] Day 5
 - [x] Day 6
+- [x] Day 7
 
 ### Run using Bun
 ```
